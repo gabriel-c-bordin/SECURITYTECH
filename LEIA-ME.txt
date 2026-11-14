@@ -1,0 +1,11 @@
+TURNO NEON — GUIA DA AULA
+
+Para abrir, dê dois cliques em index.html. Os arquivos do site devem permanecer juntos na mesma pasta. Não é necessário instalar programas nem ter internet para usar o guia.
+
+Antes da aula, prepare nos notebooks uma pasta de origem com arquivos de exemplo e uma pasta de destino. Indique os aplicativos de câmera e de texto ou Word e as pastas que as duplas devem usar. Oriente a turma sobre privacidade, sobre quando desligar os notebooks e sobre a alternativa caso não exista câmera disponível.
+
+Cada dupla informa seus nomes. A missão e os nomes são reiniciados sempre que a página é aberta ou atualizada; não é preciso limpar o cache. O site não acessa a câmera ou os arquivos e não verifica ações realizadas fora dele. As simulações de setup e desligamento são feitas dentro do site. A atividade de desligamento aparece após os parabéns pela conclusão do curso.
+
+Os arquivos main.js e app.js contêm, respectivamente, o código-fonte e a versão empacotada com a biblioteca Motion, disponibilizada sob a licença MIT. As condições da licença estão em LICENSE-MOTION.txt.
+
+O cronômetro começa ao abrir a primeira fase e para na tela de parabéns, antes do treino de desligamento. Ao atualizar ou fechar e abrir a página, uma nova missão começa e o cronômetro é reiniciado.
